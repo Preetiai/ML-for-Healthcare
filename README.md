@@ -13,6 +13,9 @@ This whole Project is Deployed over AWS instance over the Apache Web Server usin
 
 Steps used for Deployment:
 a. Created the ML model and saved it using joblib.
+
 b. Created app.py and the webpage page it will render to.
-c. Created an EC2 instance over RHEL8.
+
+c. Created an EC2 instance in AWS.
+
 d. Similarly Deployed all models and connected them to the home page inside apache web server.
