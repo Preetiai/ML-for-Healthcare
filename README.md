@@ -1,5 +1,5 @@
 # ML-for-Healthcare
-This project is an end to end data science project that is able to predict the chances of getting a disease in organs like liver, kidey, heart, etc.
+This project is an end to end AI project that is able to predict the chances of getting a disease in organs like liver, kidney, etc.
 
 Libraries Used:
 Sci-kit Learn
